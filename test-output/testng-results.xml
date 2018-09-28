@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2018-09-26T02:41:40Z" name="Default suite" finished-at="2018-09-26T02:41:43Z" duration-ms="2373">
+  <suite started-at="2018-09-28T03:53:47Z" name="Default suite" finished-at="2018-09-28T03:53:50Z" duration-ms="3302">
     <groups>
     </groups>
-    <test started-at="2018-09-26T02:41:40Z" name="Default test" finished-at="2018-09-26T02:41:43Z" duration-ms="2373">
+    <test started-at="2018-09-28T03:53:47Z" name="Default test" finished-at="2018-09-28T03:53:50Z" duration-ms="3302">
       <class name="Rest.RestOne">
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:Rest.RestOne@49049a04]" started-at="2018-09-26T02:41:40Z" name="beforeTest" finished-at="2018-09-26T02:41:41Z" duration-ms="440" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:Rest.RestOne@1151e434]" started-at="2018-09-28T03:53:47Z" name="beforeTest" finished-at="2018-09-28T03:53:47Z" duration-ms="716" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="SME_Tests()[pri:0, instance:Rest.RestOne@49049a04]" started-at="2018-09-26T02:41:41Z" name="SME_Tests" finished-at="2018-09-26T02:41:43Z" duration-ms="1910" status="PASS">
+        <test-method signature="SME_Tests()[pri:0, instance:Rest.RestOne@1151e434]" started-at="2018-09-28T03:53:47Z" name="SME_Tests" finished-at="2018-09-28T03:53:50Z" duration-ms="2191" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SME_Tests -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:Rest.RestOne@49049a04]" started-at="2018-09-26T02:41:43Z" name="afterTest" finished-at="2018-09-26T02:41:43Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:Rest.RestOne@1151e434]" started-at="2018-09-28T03:53:50Z" name="afterTest" finished-at="2018-09-28T03:53:50Z" duration-ms="362" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->

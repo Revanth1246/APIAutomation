@@ -5,7 +5,7 @@
     <classes>
       <class name="Rest.RestOne">
         <methods>
-          <include name="f"/>
+          <include name="SME_Tests"/>
           <include name="beforeTest"/>
           <include name="afterTest"/>
         </methods>
